@@ -1,0 +1,6 @@
+2024-10-15 16:11:42.071 | DEBUG    | PSCustomProjects.cliente_wake_sample2:__Main__:8 - This is a debug message.
+2024-10-15 16:11:42.071 | CRITICAL | PSCustomProjects.cliente_wake_sample2:__Main__:9 - This is a critical message.
+2024-10-15 16:13:57.123 | WARNING  | PSCustomProjects.cliente_wake_sample2:__Main__:8 - This is a warning message.
+2024-10-15 16:13:57.123 | ERROR    | PSCustomProjects.cliente_wake_sample2:__Main__:9 - This is a error message.
+2024-10-15 16:16:08.362 | WARNING  | PSCustomProjects.cliente_wake_sample2:__Main__:8 - This is a warning message.
+2024-10-15 16:16:08.363 | ERROR    | PSCustomProjects.cliente_wake_sample2:__Main__:9 - This is a error message.

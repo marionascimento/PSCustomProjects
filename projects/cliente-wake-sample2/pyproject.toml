@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cliente-wake-sample2"
+version = "0.1.0"
+description = ""
+authors = ["Mario Nascimento <mario.nascimento@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+logger = {path = "../../libs/logger"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

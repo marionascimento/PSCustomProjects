@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "lib-x"
+version = "0.1.1"
+description = ""
+authors = ["Mario Nascimento <mario.nascimento@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+logger = {path = "../logger"}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

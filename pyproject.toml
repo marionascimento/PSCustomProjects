@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "PSCustomProjects"
+version = "0.1.0"
+description = "Professional Services - Custom Projetcs"
+authors = ["Mario Nascimento <mario.nascimento@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

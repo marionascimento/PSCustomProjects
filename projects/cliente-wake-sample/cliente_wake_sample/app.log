@@ -1,0 +1,9 @@
+2024-10-15 16:10:13.204 | DEBUG    | PSCustomProjects.cliente_wake_sample:__Main__:9 - This is a debug message.
+2024-10-15 16:10:13.205 | CRITICAL | PSCustomProjects.cliente_wake_sample:__Main__:10 - This is a critical message.
+2024-10-15 16:10:13.210 | INFO     | PSCustomProjects.Libs:__Main__:6 - Call from Libs/Lib-X
+2024-10-15 16:14:18.606 | DEBUG    | PSCustomProjects.cliente_wake_sample:__Main__:9 - This is a debug message.
+2024-10-15 16:14:18.607 | CRITICAL | PSCustomProjects.cliente_wake_sample:__Main__:10 - This is a critical message.
+2024-10-15 16:14:18.612 | INFO     | PSCustomProjects.Libs:__Main__:6 - Call from Libs/Lib-X
+2024-10-15 16:16:13.248 | DEBUG    | PSCustomProjects.cliente_wake_sample:__Main__:9 - This is a debug message.
+2024-10-15 16:16:13.248 | CRITICAL | PSCustomProjects.cliente_wake_sample:__Main__:10 - This is a critical message.
+2024-10-15 16:16:13.253 | INFO     | PSCustomProjects.Libs:__Main__:6 - Call from Libs/Lib-X
